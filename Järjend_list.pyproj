@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>54d28ee8-485d-498b-8bbc-723bbf4bdc58</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>4.4 listid.py</StartupFile>
+    <StartupFile>4.5 isikukood.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
