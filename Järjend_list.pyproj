@@ -23,6 +23,7 @@
   <ItemGroup>
     <Compile Include="Järjend_list.py" />
     <Compile Include="4.4 listid.py" />
+    <Compile Include="4.5 isikukood.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
